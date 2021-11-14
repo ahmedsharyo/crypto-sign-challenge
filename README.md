@@ -28,7 +28,7 @@ Usage
 
 `MESSAGE` is the message you wish to sign with your private key.  The message
 must be 250 characters or less. 
-`-algo` is the algorithm to use (RSA or ECDSA )
+  `-algo` is the algorithm to use (RSA or ECDSA )
 
 The following is an example with output included.
 
