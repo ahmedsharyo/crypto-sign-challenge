@@ -1,7 +1,7 @@
 Crypto Sign
 ===========
 
-Crypto Sign is an application to sign a message with your private key using RSA/ECDSA algorithms
+Crypto Sign is an console application to sign a message with your private key using RSA/ECDSA algorithms
 
 Installing
 ----------
